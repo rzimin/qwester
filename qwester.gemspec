@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "dibber"  # Used for seeding in test/dummy
   s.add_development_dependency "sqlite3"
   s.add_development_dependency 'activeadmin'
-  s.add_development_dependency 'sass-rails',   '~> 3.2.3'
+  s.add_development_dependency 'sass-rails',   '> 3.2.3'
   s.add_development_dependency 'uglifier', '>= 1.0.3'
   s.add_development_dependency 'jquery-ui-rails'
   s.add_development_dependency 'jquery-rails'
